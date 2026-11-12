@@ -1,0 +1,6 @@
+{
+  "name": "Balatec Secure Wallet",
+  "description": "Secure, private, offline-first expenses tracker with multi-currency support and robust synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
